@@ -1,20 +1,21 @@
-<div>
+<div class="header">
 
-  <!--Header-->
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Archive)
 
 </div>
 
 <div>
-  <!--Body-->
-
 ## Abount Me
+</div>
 
+<div>
+  ## Github Stats
+  ![Nyarmit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nyarmit&show_icons=true&theme=dark)
+</div>
 
-![Nyarmit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nyarmit&show_icons=true&theme=dark)
-
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=warm)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=nyarmit)](https://solved.ac/nyarmit)
+<div align= "center">
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=nyarmit)](https://solved.ac/nyarmit)
+  ![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=warm)
 </div>
 
 <!--
