@@ -9,13 +9,18 @@
 </div>
 
 <div>
+  
   ## Github Stats
   ![Nyarmit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nyarmit&show_icons=true&theme=dark)
+
 </div>
 
 <div align= "center">
+
+  ## Baekjoon
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=nyarmit)](https://solved.ac/nyarmit)
   ![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=warm)
+
 </div>
 
 <!--
