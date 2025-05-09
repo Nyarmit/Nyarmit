@@ -21,7 +21,7 @@
 
   ## Baekjoon
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=nyarmit)](https://solved.ac/nyarmit)
-  <div><img src="http://mazandi.herokuapp.com/api?handle={handle}&theme=warm"/></div>
+  <div><img src="http://mazandi.herokuapp.com/api?handle=nyarmit&theme=warm"/></div>
 
 </div>
 
