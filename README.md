@@ -12,6 +12,8 @@
 
 
 ![Nyarmit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nyarmit&show_icons=true&theme=dark)
+
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=warm)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=nyarmit)](https://solved.ac/nyarmit)
 </div>
 
