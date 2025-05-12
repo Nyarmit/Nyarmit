@@ -1,6 +1,6 @@
 <div class="header">
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=#ffffff&height=200&section=header)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=#FFFFFF&height=250&section=header)
 
 </div>
 
